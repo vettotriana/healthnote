@@ -185,7 +185,7 @@ Si deseas mejorar este proyecto:
 
 ---
 
-## 📧 Contacto vetto@hotmail.co.uk
+## 📧 Contacto
 Si tienes preguntas o necesitas soporte, puedes abrir un issue en el repositorio o enviarme un mensaje.
 
 ¡Gracias por usar la API de Gestión de Pacientes! 🚀

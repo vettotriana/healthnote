@@ -18,7 +18,7 @@ Antes de empezar, asegúrate de tener instalado lo siguiente en tu sistema:
 
 1. **Clona el repositorio**
 ```sh
- git clone https://github.com/tu-usuario/tu-repositorio.git
+ git clone https://github.com/vettotriana/healthnote/.git
 ```
 
 2. **Accede al directorio del backend**
